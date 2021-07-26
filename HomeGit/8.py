@@ -10,4 +10,4 @@ for i in f:
     if g < 3:
         print(i[:-1])
 
-    print(s/n)    
+    print(s/n)
